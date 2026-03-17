@@ -1,4 +1,4 @@
-# Hi, I'm Fred Wall
+# Hi, I'm Fred Wall 🤝
 
 I currently work as a Business Intelligence Analyst and I've always had a huge passion for all things sports. I want to use this portfolio as a way to build sports analytics projects at the
 intersection of data, statistics, betting markets, and sports.
