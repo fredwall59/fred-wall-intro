@@ -18,4 +18,4 @@ intersection of data, statistics, betting markets, and sports.
 March Madness 2026 bracket analysis — seeding vs. advanced metrics
 
 ## Connect
-[LinkedIn]((https://www.linkedin.com/in/fred-wall-50231012b/)) · [Email](fredwall12@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fred-wall-50231012b/) · [Email](fredwall12@gmail.com)
