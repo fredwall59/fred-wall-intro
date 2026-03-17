@@ -2,12 +2,12 @@
 
 I currently work as a Business Intelligence Analyst and I've always had a huge passion for all things sports. I want to use this portfolio as a way to build sports analytics projects that try to answer interesting questions at the intersection of data, statistics, betting markets, and sports.
 
-## What I work with
+## What I work with...
 - **SQL** — BigQuery, complex aggregations and window functions
 - **Python** — pandas, matplotlib, seaborn, scipy
 - **Visualization** — Tableau
 
-## Featured projects
+## Featured Projects
 | Project | Status | Description | Tools |
 |---|---|---|---|
 | [March Madness Upset Model](https://github.com/fredwall59/March-Madness-Upset-Model) | In Progress | Predicting seed upsets using KenPom metrics | Python, SQL |
