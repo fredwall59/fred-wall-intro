@@ -10,8 +10,8 @@ I currently work as a Business Intelligence Analyst and I've always had a huge p
 ## Featured projects
 | Project | Status | Description | Tools |
 |---|---|---|---|
-| [March Madness Upset Model](link) | In Progress | Predicting seed upsets using KenPom metrics | Python, SQL |
-| [Hockey Goalie Pressure Index](link) | In Progress | Save % in elimination games since 2010 | Python, SQL |
+| [March Madness Upset Model](https://github.com/fredwall59/March-Madness-Upset-Model) | In Progress | Predicting seed upsets using KenPom metrics | Python, SQL |
+| [Hockey Goalie Pressure Index](https://github.com/fredwall59/Hockey-Goalie-Pressure-Index) | In Progress | Save % in elimination games since 2010 | Python, SQL |
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/fred-wall-50231012b/) · [Email](fredwall12@gmail.com)
